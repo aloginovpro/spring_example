@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_92" class="java.beans.XMLDecoder">
+ <object class="ru.loginov.spring.entity.Player">
+  <int>1</int>
+  <string>Alex</string>
+  <string>qwe</string>
+  <int>150</int>
+ </object>
+</java>
